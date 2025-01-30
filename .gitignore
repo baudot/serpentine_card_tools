@@ -1,0 +1,5 @@
+*.pdf
+/infiles
+/outfiles
+/infiles/*
+/outfiles/*
